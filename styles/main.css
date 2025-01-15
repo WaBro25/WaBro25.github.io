@@ -1,0 +1,43 @@
+    
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jersey+15&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+p {
+  font-family: "Arvo", serif;
+  font-weight: 400;
+  font-size: 26px;
+  text-align: center;
+}
+  h1 {
+    font-family: "Lobster two", serif;
+    text-align: center;
+}
+
+.smaller-image {
+    max-width: 30%;
+    display: block;
+    margin: auto;
+    display: block;
+    height: auto;
+
+  }
+
+  .font-change {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-size: 26px;
+  }
+  #grey-text {
+    color: grey;
+  }
+
+  .footer {
+    font-size: 13px;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    margin: auto 0;
+}
