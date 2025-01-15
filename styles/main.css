@@ -32,6 +32,10 @@ p {
   #grey-text {
     color: grey;
   }
+  #green-text {
+    color: green;
+  }
+
 
   .footer {
     font-size: 13px;
