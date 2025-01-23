@@ -15,6 +15,15 @@ p {
     text-align: center;
 }
 
+.orderedList {
+  font-family: "Arvo", serif;
+  font-weight: 400;
+  font-size: 26px;
+  text-align: center;  
+  list-style-position: inside;
+}
+
+
 .smaller-image {
     max-width: 30%;
     display: block;
@@ -44,4 +53,23 @@ p {
     text-align: center;
     width: 100%;
     margin: auto 0;
+}
+
+.pre {
+  text-align: center;  
+  list-style-position: inside;
+  background: #f4f4f4;
+  border: 1px solid #ddd;
+  border-left: 3px solid #f36d33;
+  color: #666;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 1em 1.5em;
+  display: block;
+  word-wrap: break-word;
 }
